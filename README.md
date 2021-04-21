@@ -15,4 +15,4 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
-![Sanyam's Github Stats](https://github-readme-stats.vercel.app/api?username=shubham8patni-dot&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=shubham8patni&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
