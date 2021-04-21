@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: shubhampatni88@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham8patni-dot&label=Profile%20views&color=0e75b6&style=flat" alt="shubham8patni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham8patni&label=Profile%20views&color=0e75b6&style=flat" alt="shubham8patni" /> </p>
 
 
 ### I am good at:
