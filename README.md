@@ -10,9 +10,9 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/php.png" title="PHP"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/css.png" title="CSS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/sql.png" title="SQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
 ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=shubham8patni&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
