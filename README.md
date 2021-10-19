@@ -14,6 +14,8 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/sql.png" title="SQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/react.png" title="Linux"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
+
 
 ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=shubham8patni&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
