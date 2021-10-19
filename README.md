@@ -4,6 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham8patni&label=Profile%20views&color=0e75b6&style=flat" alt="shubham8patni" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-patni-7a169552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam-mehendiratta-2b0640190" height="30" width="40" /></a>
+ </p>
+
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
