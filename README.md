@@ -14,6 +14,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
 <code><img width="40px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png" title="Flask"/></code>
 <code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/appium-logo.png" title="Appium"/></code>
+<code><img width="40px" src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/php.png" title="PHP"/></code>
