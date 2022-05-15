@@ -12,7 +12,7 @@
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/flask.png" title="Flask"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/appium.png" title="Appium"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/php.png" title="PHP"/></code>
